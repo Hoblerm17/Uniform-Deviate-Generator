@@ -1,0 +1,10 @@
+bin\Debug\UniformDeviateGenerator.exe
+bin\Debug\UniformDeviateGenerator.pdb
+bin\Debug\UniformDeviateGenerator.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\UniformDeviateGenerator.vbproj.GenerateResource.Cache
+obj\Debug\UniformDeviateGenerator.exe
+obj\Debug\UniformDeviateGenerator.xml
+obj\Debug\UniformDeviateGenerator.pdb

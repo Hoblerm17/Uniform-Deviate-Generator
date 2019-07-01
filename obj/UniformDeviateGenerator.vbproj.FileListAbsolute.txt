@@ -1,0 +1,10 @@
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\obj\Debug\UniformDeviateGenerator.exe
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\obj\Debug\UniformDeviateGenerator.xml
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\obj\Debug\UniformDeviateGenerator.pdb
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\bin\Debug\UniformDeviateGenerator.exe
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\bin\Debug\UniformDeviateGenerator.pdb
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\bin\Debug\UniformDeviateGenerator.xml
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Data\WPFiles\Courses\Spring2008\Cis3308\Programs\UniformDeviateGenerator\UniformDeviateGenerator\obj\Debug\UniformDeviateGenerator.vbproj.GenerateResource.Cache
